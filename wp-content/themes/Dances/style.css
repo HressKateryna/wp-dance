@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: red;
+}
+header{
+    background-color: #00b9eb;
+}
+main{
+    display: flex;
+    justify-content: center;
+    height: 70vh;
+}
